@@ -1,1 +1,7 @@
 displaychart/*
+*.bib
+*.csv
+*.parquet
+*.pkl
+*.gz
+*.model

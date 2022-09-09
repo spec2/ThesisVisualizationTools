@@ -1,4 +1,4 @@
-# ACL Anthologyの可視化ツール
+# ACL Anthology visualization tools
 ## How to use
 1. `cd ACL-anthology-corpus`
 2. run `pip install gdown` on your environment.

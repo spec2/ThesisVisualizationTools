@@ -9,7 +9,7 @@
 
 ## License
 You can edit these notebooks and re-share it.  
-ACL anthology corpus is released under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).  By using this repository, you are agreeing to its usage terms.
+This repository is released under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).  By using this repository, you are agreeing to its usage terms.
 
 ## Reference
 1. [ACL Anthology Corpus - Full Text](https://github.com/shauryr/ACL-anthology-corpus)

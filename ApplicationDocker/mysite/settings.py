@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-q%2@eb%jw=wha5j(w)%l3t1a$8@=uhk5hg8%m^i@%n*b=_qymf
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["localhost", "paper.studentportfolio.tk"]
 
 
 # Application definition

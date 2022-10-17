@@ -9,16 +9,19 @@ services:
       - POSTGRES_DB=postgres
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=postgres
+    restart: always
+
   web:
     build: .
     command: python3 manage.py runserver 0.0.0.0:8000
     volumes:
-      - .:/code
+      - ./wtms:/code/wtms
     ports:
       - "8000:8000"
     environment:
       - POSTGRES_NAME=postgres
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=postgres
+    restart: always
     depends_on:
       - db

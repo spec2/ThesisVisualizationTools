@@ -1,11 +1,8 @@
 # ACL Anthology visualization tools
 ## How to use
-1. `cd ACL-anthology-corpus`
-2. run `pip install gdown` on your environment.
-3. `gdown https://drive.google.com/uc?id=<file_id>`
-   1. e.g,, run `gdown gdown https://drive.google.com/uc?id=19rEco5OT4Um-0DNzna27UfZ1wjSG5oKC` in the directory in which is a notebook.
-4. run  `ACL-anthology-corpus/acl_anthology_full-text_sbert.ipynb`
-5. Then, you can analyze the papers of ACL Anthology.
+- Tutorial Code is [hear](https://github.com/spec2/ThesisVisualizationTools/blob/master/Tutorial/paperanalysistooltutorial.ipynb).
+- You can also try it on Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/spec2/68b0d5e5131792773f426c8f24ff1838/PaperAnalysisToolTutorial.ipynb)
 
 ## License
 You can edit these notebooks and re-share it.  
